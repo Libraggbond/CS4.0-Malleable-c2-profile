@@ -15,7 +15,8 @@
 
 (3) c2 profile:
 
- ```https-certificate {
+ ```
+ https-certificate {
     set keystore "demopic2.store";
     set password "ggbond";
 }
