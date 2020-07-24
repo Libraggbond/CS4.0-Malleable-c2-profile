@@ -1,5 +1,6 @@
 # CS4.0-Malleable-c2-profile
 
+使用letencrypt生成的证书文件有多个，只使用fullchain.pem 和 privkey.pem生成keystore文件
 
 使用letsencrypt 生成 C2 profile
 
