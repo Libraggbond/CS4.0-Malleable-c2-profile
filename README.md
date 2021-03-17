@@ -9,7 +9,7 @@
 
 （1）lets encrypt 生成PKCS12 Keystore:
 
-```openssl pkcs12 -export -in fullchain.pem -inkey privkey.pem -out demopic2.pkcs -name api.demopic2.ga -passout ggbond```
+```openssl pkcs12 -export -in fullchain.pem -inkey privkey.pem -out demopic2.pkcs -name api.demopic2.ga -passout pass:ggbond```
 
 
 （2）生成java keystore
